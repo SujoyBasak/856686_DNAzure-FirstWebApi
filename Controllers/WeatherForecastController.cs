@@ -17,6 +17,7 @@ namespace DockerExample.Controllers
         };
 
         //Comment Added
+        //New Comment 
 
         private readonly ILogger<WeatherForecastController> _logger;
 
